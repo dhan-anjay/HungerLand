@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="green">#FF86C376</color>
+    <color name="iconColor"></color>
+    <color name="textColor"></color>
+    <color name="startColor"></color>
+    <color name="endColor"></color>
+<!--    <color name=""></color>-->
+<!--    <color name=""></color>-->
+<!--    <color name=""></color>-->
+<!--    <color name=""></color>-->
+<!--    <color name=""></color>-->
+<!--    <color name=""></color>-->
+<!--    <color name=""></color>-->
+<!--    <color name=""></color>-->
+<!--    <color name=""></color>-->
+<!--    <color name=""></color> -->
+
+</resources>

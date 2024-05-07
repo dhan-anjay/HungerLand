@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hunger Land</string>
+    <string name="next">Next</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="or_continue_with">Or\nContinue With</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="already_have_account">Already have an account?</string>
+</resources>

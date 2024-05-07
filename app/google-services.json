@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "113816576778",
+    "firebase_url": "https://fir-demo-2a0a0-default-rtdb.firebaseio.com",
+    "project_id": "fir-demo-2a0a0",
+    "storage_bucket": "fir-demo-2a0a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113816576778:android:f7f5ea3a3cc091ca7f90f3",
+        "android_client_info": {
+          "package_name": "com.example.hungerland"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9QTkANMcOQSvrmDWataVjK078XTSTpQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113816576778:android:6a385445b03add427f90f3",
+        "android_client_info": {
+          "package_name": "com.example.searchfilter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9QTkANMcOQSvrmDWataVjK078XTSTpQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
